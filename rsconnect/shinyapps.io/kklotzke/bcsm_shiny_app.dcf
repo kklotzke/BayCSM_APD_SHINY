@@ -1,0 +1,10 @@
+name: bcsm_shiny_app
+title:
+username:
+account: kklotzke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1851366
+bundleId: 2822637
+url: https://kklotzke.shinyapps.io/bcsm_shiny_app/
+when: 1582492158.91741
